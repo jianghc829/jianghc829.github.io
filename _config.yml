@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Huicong Jiang"
   avatar           : "profile.png"
-  bio              : "Graduate student in Computer Science at University of Washington looking for intern positions"
+  bio              : "MS Candidate in Computer Science at University of Washington"
   location         : "Providence, RI"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=StUmFMsAAAAJ"
   email            : "hjiang9@uw.edu"
   researchgate     : "https://www.researchgate.net/profile/Huicong_Jiang"
   uri              : 
