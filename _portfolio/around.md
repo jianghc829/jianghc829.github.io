@@ -1,0 +1,11 @@
+---
+title: "Around"
+excerpt: "A social networking app deployed on Google Cloud Platform, written in React and Go<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+* Developed a social network web application using React JS
+* Designed a UI for users to create and browse posts and to search for nearby posts
+* Used token based authentication with React Router v4 and server-side user authentication with JWT
+* Launched a scalable web service in Go to handle posts and deployed to Google App Engine
+* Used Elasticsearch (deployed on GCE) to provide search functions

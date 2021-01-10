@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2018 - 2020: Graduate Research Assistant
-  * **Brown University**
+  * Brown University
   * Responsibilities: 
     * Performed research on water wave physics
     * Designed and built a tunable water wave generator (vertical shaker) and a high-speed imaging system for the PIV
@@ -27,7 +27,7 @@ Work experience
   * Supervisor: Prof. Daniel Harris
 
 * 2016 - 2018: Graduate Research Assistant
-  * **Washington State University**
+  * Washington State University
   * Responsibilities:
     * Developed a fast one-dimensional simulation of inkjet using MATLAB
     * Built a low cost and robust inkjet visualization system with a high-speed imaging technique
@@ -36,7 +36,7 @@ Work experience
   * Supervisor: Prof. Hua Tan
 
 * 2013 - 2016: SAP Specialist
-  * **State Grid Corporation of China**
+  * State Grid Corporation of China
   * Responsibilities:
     * Established SAP Material Management module and Project Process module for the company
     * Maintained SAP ERP system and trained new SAP users
@@ -54,7 +54,5 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-======
 
 Download PDF version [link](http://jianghc829.github.io/files/resume.pdf "here")
