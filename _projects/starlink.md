@@ -1,7 +1,7 @@
 ---
 title: "Starlink"
-excerpt: "A React-based Starlink trajectory visualizer<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "A React-based Starlink trajectory visualizer<br/><img src='/images/starlink.png'>"
+collection: projects
 ---
 
 * Designed and developed a visualization dashboard using React JS to track satellites in real-time

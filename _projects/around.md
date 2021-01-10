@@ -1,7 +1,7 @@
 ---
 title: "Around"
-excerpt: "A social networking app deployed on Google Cloud Platform, written in React and Go<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "A social networking app deployed on Google Cloud Platform, written in React and Go<br/><img src='/images/around.png'>"
+collection: projects
 ---
 
 * Developed a social network web application using React JS

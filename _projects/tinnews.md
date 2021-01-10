@@ -1,7 +1,7 @@
 ---
 title: "Tinnews"
-excerpt: "A Tinder-like news Android app<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "A Tinder-like news Android app"
+collection: projects
 ---
 
 * Designed a Tinder-like news app based on Google component architectural MVVM pattern
