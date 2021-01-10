@@ -6,7 +6,7 @@ excerpt: 'In recent years, physics-based computer models have been increasingly 
 date: 2018-03-06
 venue: 'Fluids'
 paperurl: 'http://jianghc829.github.io/files/Fluids_2018.pdf'
-citation: 'Jiang H, Tan H. &quot;One dimensional Model for droplet ejection process in inkjet devices.&quot; <i>Fluids</i>. 2018，3(2):28.'
+citation: 'Jiang H, Tan H. &quot;One dimensional Model for droplet ejection process in inkjet devices.&quot; <i>Fluids</i>. 2018, 3(2):28.'
 ---
 
 [Download paper here](http://jianghc829.github.io/files/FLuids_2018.pdf)
