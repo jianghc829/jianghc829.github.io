@@ -1,8 +1,8 @@
 ---
 title: "Around"
-excerpt: "A social networking app deployed on Google Cloud Platform, written in React and Go<br/><br/>
+excerpt: "A social networking app deployed on Google Cloud Platform, written in React and Go<br/>
 Link: <a href='https://tinyurl.com/around-app'>https://tinyurl.com/around-app</a><br/><br/>
-<img src='/images/around.png' width='200'>"
+<img src='/images/around.png' width='450'>"
 collection: projects
 ---
 

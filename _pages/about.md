@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Personal website for Huicong Jiang"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV.
+Hi, my name is Huicong. I'm pursuing a Master's degree in Computer Science at the University of Washington. I'm a mechanical engineer by training with a strong quantitative background and experience in interdisciplinary research, including computational and experimental fluid dynamics. I'm interested in scientific computing, distributed systems and web development. I enjoy working on challenging problems, exploring new technologies, and I am currently looking for software engineering internships for Summer 2021.

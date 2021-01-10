@@ -55,4 +55,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Download PDF version [link](http://jianghc829.github.io/files/resume.pdf "here")
+Download PDF version [here](http://jianghc829.github.io/files/resume.pdf "Resume PDF")

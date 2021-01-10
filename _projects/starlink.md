@@ -1,8 +1,8 @@
 ---
 title: "Starlink"
-excerpt: "A React-based Starlink trajectory visualizer<br/><br/>
+excerpt: "A React-based Starlink trajectory visualizer<br/>
 Link: <a href='https://tinyurl.com/starlink-track'>https://tinyurl.com/starlink-track</a><br/><br/>
-<img src='/images/starlink.png' width='200'>"
+<img src='/images/starlink.png' width='450'>"
 collection: projects
 ---
 

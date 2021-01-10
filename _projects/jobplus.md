@@ -1,8 +1,8 @@
 ---
 title: "Job+"
-excerpt: "A job search and recommendation web app<br/><br/>
+excerpt: "A job search and recommendation web app<br/>
 Link: <a href='https://tinyurl.com/jobAround'>https://tinyurl.com/jobAround</a><br/><br/>
-<img src='/images/jobplus.png' width='200'>"
+<img src='/images/jobplus.png' width='450'>"
 collection: projects
 ---
 
