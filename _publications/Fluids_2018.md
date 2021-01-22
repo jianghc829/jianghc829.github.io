@@ -9,4 +9,4 @@ paperurl: 'http://jianghc829.github.io/files/Fluids_2018.pdf'
 citation: 'Jiang H, Tan H. &quot;One dimensional Model for droplet ejection process in inkjet devices.&quot; <i>Fluids</i>. 2018, 3(2):28.'
 ---
 
-[Download paper here](http://jianghc829.github.io/files/FLuids_2018.pdf)
+[Download paper here](http://jianghc829.github.io/files/Fluids_2018.pdf)
